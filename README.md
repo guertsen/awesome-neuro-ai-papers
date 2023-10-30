@@ -73,7 +73,7 @@ Geirhos, R., Narayanappa, K., Mitzkus, B., Bethge, M., Wichmann, F. A., & Brende
 
 Storrs, K. R., Kietzmann, T. C., Walther, A., Mehrer, J., & Kriegeskorte, N. [**Diverse deep neural networks all predict human IT well, after training and fitting**](https://www.biorxiv.org/content/10.1101/2020.05.07.082743v1.abstract) bioRxiv (2020)
 
-Yonatan Sanz Perl, Hernán Boccacio, Ignacio Pérez-Ipiña, Federico Zamberlán, Helmut Laufs, Morten Kringelbach, Gustavo Deco, Enzo Tagliazucchi [**Generative embeddings of brain collective dynamics using variational autoencoders**](https://arxiv.org/pdf/2007.01378.pdf) arXiv (2020)
+Yonatan Sanz Perl, Hernán Boccacio, Ignacio Pérez-Ipiña, Federico Zamberlán, Helmut Laufs, Morten Kringelbach, Gustavo Deco, Enzo Tagliazucchi [**Generative embeddings of brain collective dynamics using variational autoencoders**](https://arxiv.org/abs/2007.01378) arXiv (2020)
 
 George, D., Lazaro-Gredilla, M., Lehrach, W., Dedieu, A., & Zhou, G. [**A detailed mathematical theory of thalamic and cortical microcircuits based on inference in a generative vision model**](https://www.biorxiv.org/content/10.1101/2020.09.09.290601v1.abstract) bioRxiv (2020)
 
@@ -159,13 +159,13 @@ Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Etha
 
 Gebicke-Haerter, P. J. [**The computational power of the human brain**](https://www.frontiersin.org/articles/10.3389/fncel.2023.1220030/full) Frontiers in Cellular Neuroscience (2023)
 
-Zhao, L., Zhang, L., Wu, Z., Chen, Y., Dai, H., Yu, X., ... & Liu, T. [**When brain-inspired AI meets AGI**](https://arxiv.org/pdf/2303.15935.pdf) arXiv (2023)
+Zhao, L., Zhang, L., Wu, Z., Chen, Y., Dai, H., Yu, X., ... & Liu, T. [**When brain-inspired AI meets AGI**](https://arxiv.org/abs/2303.15935) arXiv (2023)
 
 Zador, A., Richards, B., Ölveczky, B., Escola, S., Bengio, Y., Boahen, K., ... & Tsao, D. [**Toward next-generation artificial intelligence: catalyzing the NeuroAI revolution**](https://arxiv.org/abs/2210.08340) arXiv (2022)
 
 Doerig, A., Sommers, R., Seeliger, K., Richards, B., Ismael, J., Lindsay, G., ... & Kietzmann, T. C. [**The neuroconnectionist research programme**](https://arxiv.org/abs/2209.03718) arXiv (2022)
 
-Lindsay, G. W. [**Convolutional neural networks as a model of the visual system: Past, present, and future**](https://arxiv.org/pdf/2001.07092.pdf) arXiv (2021)
+Lindsay, G. W. [**Convolutional neural networks as a model of the visual system: Past, present, and future**](https://arxiv.org/abs/2001.07092) arXiv (2021)
 
 Hasselmo, M. E., Alexander, A. S., Hoyland, A., Robinson, J. C., Bezaire, M. J., Chapman, G. W., ... & Dannenberg, H. [**The Unexplored Territory of Neural Models: Potential Guides for Exploring the Function of Metabotropic Neuromodulation**](https://www.sciencedirect.com/science/article/abs/pii/S0306452220302141) Neuroscience (2021)
 
@@ -185,7 +185,7 @@ Schrimpf, M., Kubilius, J., Lee, M. J., Ratan Murty, N. A., Ajemian, R., & DiCar
 
 Merel, J., Botvinick, M., & Wayne, G. [**Hierarchical motor control in mammals and machines**](https://www.nature.com/articles/s41467-019-13239-6) Nature communications (2019)
 
-Storrs, K. R., & Kriegeskorte, N. [**Deep learning for cognitive neuroscience.**](https://arxiv.org/pdf/1903.01458.pdf) arXiv (2019)
+Storrs, K. R., & Kriegeskorte, N. [**Deep learning for cognitive neuroscience.**](https://arxiv.org/abs/1903.01458) arXiv (2019)
 
 Zador, M.Z. [**A critique of pure learning and what artificial neural networks can learn from animal brains**](https://www.nature.com/articles/s41467-019-11786-6), Nature Communications, (2019)
 
