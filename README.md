@@ -12,11 +12,11 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
-Spieler, A., Rahaman, N., Martius, G., Schölkopf, B., & Levina, A. [**The ELM Neuron: an Efficient and Expressive Cortical Neuron Model Can Solve Long-Horizon Tasks**](https://arxiv.org/pdf/2306.16922.pdf) arXiv (2023)
+Spieler, A., Rahaman, N., Martius, G., Schölkopf, B., & Levina, A. [**The ELM Neuron: an Efficient and Expressive Cortical Neuron Model Can Solve Long-Horizon Tasks**](https://arxiv.org/abs/2306.16922) arXiv (2023)
 
 Schneider, S., Lee, J. H., & Mathis, M. W. [**Learnable latent embeddings for joint behavioral and neural analysis**](https://arxiv.org/abs/2204.00673) arXiv (2022)
 
-Raju, R. V., Guntupalli, J. S., Zhou, G., Lázaro-Gredilla, M., & George, D. [**Space is a latent sequence: Structured sequence learning as a unified theory of representation in the hippocampus**](https://arxiv.org/pdf/2212.01508.pdf) arXiv (2022)
+Raju, R. V., Guntupalli, J. S., Zhou, G., Lázaro-Gredilla, M., & George, D. [**Space is a latent sequence: Structured sequence learning as a unified theory of representation in the hippocampus**](https://arxiv.org/abs/2212.01508) arXiv (2022)
 
 Millet, J., Caucheteux, C., Orhan, P., Boubenec, Y., Gramfort, A., Dunbar, E., ... & King, J. R. [**Toward a realistic model of speech processing in the brain with self-supervised learning**](https://arxiv.org/abs/2206.01685) arXiv (2022)
 
@@ -77,7 +77,7 @@ Yonatan Sanz Perl, Hernán Boccacio, Ignacio Pérez-Ipiña, Federico Zamberlán,
 
 George, D., Lazaro-Gredilla, M., Lehrach, W., Dedieu, A., & Zhou, G. [**A detailed mathematical theory of thalamic and cortical microcircuits based on inference in a generative vision model**](https://www.biorxiv.org/content/10.1101/2020.09.09.290601v1.abstract) bioRxiv (2020)
 
-van Bergen, R. S., & Kriegeskorte, N. [**Going in circles is the way forward: the role of recurrence in visual inference**](https://arxiv.org/pdf/2003.12128.pdf) arXiv (2020)
+van Bergen, R. S., & Kriegeskorte, N. [**Going in circles is the way forward: the role of recurrence in visual inference**](https://arxiv.org/abs/2003.12128) arXiv (2020)
 
 Joseph G. Makin, David A. Moses, Edward F. Chang 
 [**Machine translation of cortical activity to text with an encoder–decoder framework**](https://www.nature.com/articles/s41593-020-0608-8) Nature Neuroscience (2020)
